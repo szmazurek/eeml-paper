@@ -2,4 +2,4 @@
 
 Paper title: "Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space", Sz. Mazurek, J. Caputa, M. Wielgosz
 
-Arxiv: arxiv.org/abs/2507.14757
+[Link to Arxiv Paper](arxiv.org/abs/2507.14757) 
